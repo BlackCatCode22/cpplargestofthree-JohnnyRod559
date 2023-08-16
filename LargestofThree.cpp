@@ -8,15 +8,15 @@ int main()
     int num2 = 0;
     int num3 = 0;
     int Largest = 0;
-    string name1 = "name1";
+    string username = "username";
 
 
     cout << "\n\n Hi Welcome to Largest of three program! \n\n";
 //Get user name
     cout << "\n\n Please enter your name: ";
-    cin >> name1;
+    cin >> username;
 
-    cout << "\n\n Welcome, lets get started " << name1;
+    cout << "\n\n Welcome, lets get started " << username;
 
     cout << "\n\n Enter first number: ";
     cin >> num1;
