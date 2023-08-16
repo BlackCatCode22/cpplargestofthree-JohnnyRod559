@@ -21,10 +21,10 @@ int main()
     cout << "\n\n Enter first number: ";
     cin >> num1;
 
-    cout << "Enter first number: ";
+    cout << "Enter second number: ";
     cin >> num2;
 
-    cout << "Enter first number: ";
+    cout << "Enter third number: ";
     cin >> num3;
 
 
